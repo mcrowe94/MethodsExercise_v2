@@ -1,0 +1,15 @@
+C:\Users\mcrow\source\repos\MethodsExerciseV2\MethodsExerciseV2\bin\Debug\net6.0\MethodsExerciseV2.exe
+C:\Users\mcrow\source\repos\MethodsExerciseV2\MethodsExerciseV2\bin\Debug\net6.0\MethodsExerciseV2.deps.json
+C:\Users\mcrow\source\repos\MethodsExerciseV2\MethodsExerciseV2\bin\Debug\net6.0\MethodsExerciseV2.runtimeconfig.json
+C:\Users\mcrow\source\repos\MethodsExerciseV2\MethodsExerciseV2\bin\Debug\net6.0\MethodsExerciseV2.dll
+C:\Users\mcrow\source\repos\MethodsExerciseV2\MethodsExerciseV2\bin\Debug\net6.0\MethodsExerciseV2.pdb
+C:\Users\mcrow\source\repos\MethodsExerciseV2\MethodsExerciseV2\obj\Debug\net6.0\MethodsExerciseV2.csproj.AssemblyReference.cache
+C:\Users\mcrow\source\repos\MethodsExerciseV2\MethodsExerciseV2\obj\Debug\net6.0\MethodsExerciseV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcrow\source\repos\MethodsExerciseV2\MethodsExerciseV2\obj\Debug\net6.0\MethodsExerciseV2.AssemblyInfoInputs.cache
+C:\Users\mcrow\source\repos\MethodsExerciseV2\MethodsExerciseV2\obj\Debug\net6.0\MethodsExerciseV2.AssemblyInfo.cs
+C:\Users\mcrow\source\repos\MethodsExerciseV2\MethodsExerciseV2\obj\Debug\net6.0\MethodsExerciseV2.csproj.CoreCompileInputs.cache
+C:\Users\mcrow\source\repos\MethodsExerciseV2\MethodsExerciseV2\obj\Debug\net6.0\MethodsExerciseV2.dll
+C:\Users\mcrow\source\repos\MethodsExerciseV2\MethodsExerciseV2\obj\Debug\net6.0\refint\MethodsExerciseV2.dll
+C:\Users\mcrow\source\repos\MethodsExerciseV2\MethodsExerciseV2\obj\Debug\net6.0\MethodsExerciseV2.pdb
+C:\Users\mcrow\source\repos\MethodsExerciseV2\MethodsExerciseV2\obj\Debug\net6.0\MethodsExerciseV2.genruntimeconfig.cache
+C:\Users\mcrow\source\repos\MethodsExerciseV2\MethodsExerciseV2\obj\Debug\net6.0\ref\MethodsExerciseV2.dll
